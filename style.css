@@ -1,0 +1,28 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: #eddf98;
+}
+
+.header_div{
+    background: white;
+    color: rgb(0, 100, 0);
+}
+
+
+
+.text_images_and_result{
+    padding: 30px;
+    margin-top: 15px;
+    border: 15px solid white;
+}
+
+
+.copy_right_footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+}
